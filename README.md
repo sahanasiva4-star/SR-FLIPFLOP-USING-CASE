@@ -67,7 +67,9 @@ module SRFLIPFLOPUSINGCASE(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral 
   assign q_bar = ~q;
 endmodule
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+Developed by: Sahana S
+RegisterNumber:25013621
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
